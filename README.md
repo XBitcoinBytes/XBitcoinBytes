@@ -7,7 +7,7 @@ Mortgage loan originator with 25+ years in home lending, now building borrower-f
 ## Focus
 
 - Borrower-first AI tools for mortgage, including a [Loan Estimate Advisor](https://shaun-barry-portfolio.vercel.app/loan-estimate-advisor) demo that explains a sample Loan Estimate in plain English
-- Safe, useful AI advice for people shopping for or closing on a home — see the [mortgage borrower-advice eval (v0 draft, pending loan-officer review)](https://github.com/XBitcoinBytes/mortgage-borrower-advice-eval)
+- Safe, useful AI advice for people shopping for or closing on a home — see the [mortgage borrower-advice eval (v1.1, LO-reviewed)](https://github.com/XBitcoinBytes/mortgage-borrower-advice-eval)
 - Financial education through [BitcoinBytes](https://bitcoinbytes.org) and the Clarkston Bitcoin Meetup Group
 
 ## Background
