@@ -7,7 +7,7 @@ Mortgage loan originator with 25+ years in home lending, now building borrower-f
 ## Focus
 
 - Borrower-first AI tools for mortgage, including a [Loan Estimate Advisor](https://shaun-barry-portfolio.vercel.app/loan-estimate-advisor) demo that explains a sample Loan Estimate in plain English
-- Safe, useful AI advice for people shopping for or closing on a home — see the [mortgage borrower-advice eval (v1.1, 78 items, LO-reviewed)](https://github.com/XBitcoinBytes/mortgage-borrower-advice-eval). A provisional Nov 15, 2026 run of Codex (gpt-6.1-sol) scored 85.1% overall and 98.5% on safety (77 of 78 items, LLM-judged, not yet reviewed). A 525-item question bank is in progress toward 1,000; those scores are from the 78-item eval, not the bank.
+- Safe, useful AI advice for people shopping for or closing on a home — see the public [mortgage borrower-advice eval (v1.1, 78 items, LO-reviewed)](https://github.com/XBitcoinBytes/mortgage-borrower-advice-eval). On a verified held-out set of 814 scored items (Nov 21, 2026, LLM-judged), Codex (gpt-6.1-sol) scored 80.3%, Grok 4.7 scored 67.8%, GPT-6 Luna scored 51.6%, and local qwen2.5:7b scored 12.7%. A partial GPT-6.2 Astra run scored 78.4% on 199 items (scored plus provisional). Those held-out figures are not scores on the public 78-item set. The full question bank stays private.
 - Financial education through [BitcoinBytes](https://bitcoinbytes.org) and the Clarkston Bitcoin Meetup Group
 
 ## Background
@@ -25,3 +25,7 @@ Originated refinance and purchase loans at Refi.com / Veterans United, Perry Joh
 - [Email](mailto:keeptheclient@yahoo.com)
 - [YouTube @MyBitcoinBytes](https://www.youtube.com/@MyBitcoinBytes)
 - [X @xbitcoinbytes](https://x.com/xbitcoinbytes)
+
+## License
+
+This profile README is licensed under the [MIT License](LICENSE). Copyright (c) 2026 Shaun Barry.
